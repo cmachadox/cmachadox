@@ -6,7 +6,7 @@
 - 👋 Me chamo **Clemente Machado**, tenho 33 anos.
 - 📌  De Santo André/São Paulo, Brasil.
 - 💼 Atualmente sou Application Development(Cloud).
-- 🎓 Sou formado em **Redes de Computadores** possuo certificação Linux **LPIC-1**,**Associat Cloud Engineer**,**Cloud Practitioner**
+- 🎓 Sou formado em **Redes de Computadores** possuo certificação Linux **LPIC-1**, **Associat Cloud Engineer**, **Cloud Practitioner**
 - 🛠️ Estudando para me tornar um **Evoluindo para se tornar um Cloud/Devops**.
 - 🔭 Curiosidades: Ciclismos e Crossfit.
 
