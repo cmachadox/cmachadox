@@ -3,10 +3,12 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Me chamo **Clemente Machado**, tenho 34 anos, sou casado e tenho uma linda filha qual me motiva a cada vez mais buscar meus objetivos.
+- 👋 Me chamo **Clemente Machado**.
+- :couplekiss: Casado
+- :princess: Pai de uma princesa
 - 📌  De Santo André/São Paulo, Brasil.
-- 💼 Atualmente trabalho como **Site Reliability Engineer** no **Iti Itaú**.
-- 🎓 Sou formado em **Redes de Computadores** possuo certificação Linux **LPIC-1**, **Google Associate Cloud Engineer**, **AWS Cloud Practitioner**
+- 💼 Atualmente trabalho como **Cloudy Engineer** no **Itaú unibanco**.
+- 🎓 Sou formado em **Redes de Computadores** possuo certificação Linux **LPIC-1**, **Google Associate Cloud Engineer**, **AWS Certified Solutions Architect**, **AWS Cloud Practitioner**
 - 🛠️ Estudando para evoluir cada vez mais no mundo de **DevOps/SRE**.
 - 🔭 Curiosidades: Ciclismos e Crossfit.
 
